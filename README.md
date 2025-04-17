@@ -1,4 +1,4 @@
-## Simple Calculator App
+## Simple Calculator App for linux
 This Simple Calculator is a lightweight, graphical user interface (GUI) application built using Python and the Tkinter library. It allows users to perform basic arithmetic calculations (addition, subtraction, multiplication, and division) with ease.
 
 The app has a user-friendly interface with large buttons for digits and operations. It includes a display area where the result of the calculation or the entered numbers are shown. The application supports:
