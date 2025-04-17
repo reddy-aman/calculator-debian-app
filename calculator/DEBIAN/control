@@ -1,0 +1,6 @@
+Package: calculator
+Version: 1.0
+Architecture: all
+Maintainer: Aman Reddy <reddyaman10@gmail.com>
+Description: A simple GUI calculator using Tkinter
+Depends: python3, python3-tk
