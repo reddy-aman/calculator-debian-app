@@ -17,6 +17,4 @@ The app has a user-friendly interface with large buttons for digits and operatio
 1. Language : Python3
 2. GUI Framework : Tkinter
 
-## Tech Stack
-1. Language : Python3
-2. GUI Framework : Tkinter
+
